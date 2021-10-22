@@ -1,3 +1,6 @@
+// Problem Link
+// https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
+
 const LongestRepeatingSubsequence = (str) => {
   let result = [];
   for (let i = 0; i <= str.length; i++) {
